@@ -1,5 +1,5 @@
 # Rental Blog using Django
-This project is a Django-based web application that allows users to post te title and content and put comments for the posts. Users can register, log in,profile creation,edit profile,logout,passwordreset.
+This project is a Django-based web application that allows Users can register, log in,profile creation,edit profile,logout,passwordreset.
 ## Getting Started
 To run this project locally using Docker, follow these steps:
 1. Clone the repository:
